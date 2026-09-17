@@ -1,1 +1,1 @@
-# Fish-Eating-game-GLUT-project---C-
+# Fish-Eating-game-GLUT-project- C++
