@@ -302,21 +302,7 @@ Building this project provided practical experience with:
 - Collision detection and gameplay rule design
 - UI composition, visual hierarchy, and feedback effects
 - Difficulty balancing and maintainable configuration design
-
-## Contributing
-
-Suggestions, bug reports, and improvements are welcome. If you would like to contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make and test your changes.
-4. Commit with a clear message.
-5. Open a pull request describing the improvement.
-
-## License
-
-No license has been selected yet. If this repository is intended for public reuse or collaboration, add a `LICENSE` file and update this section with the chosen license.
-
+  
 ## Author
 
 Developed as a C++ and OpenGL game-programming project.
