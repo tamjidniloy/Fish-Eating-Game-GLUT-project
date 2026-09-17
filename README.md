@@ -319,7 +319,10 @@ No license has been selected yet. If this repository is intended for public reus
 
 ## Author
 
-Developed as a C++ and OpenGL game-programming project. Add your name, portfolio, LinkedIn, and GitHub profile here before publishing.
+Developed as a C++ and OpenGL game-programming project.
+Tamjid Niloy
+CSE Department
+AIUB
 
 ---
 
